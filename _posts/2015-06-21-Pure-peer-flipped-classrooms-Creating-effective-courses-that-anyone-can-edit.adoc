@@ -1,3 +1,30 @@
 = Pure-peer flipped classrooms: Creating effective courses that anyone can edit
 
-== Hi
+The internet has profoundly improved the availability and affordability of high quality information and (more recently) services, a pattern exemplified by Wikipedia, GitHub and Uber. Neither open educational resources (OERs) nor MOOCs have realized similar improvements for education. Unlike OERs and MOOCs, crowdsourced projects like Wikipedia successfully leverage the crowd for contribution and provide high quality content and/or services at scale. Pure-peer flipped classrooms/courses (PPFCs) is a new model for OERs that attempts to explicitly provide: 1) a scalable contribution model, 2) a scalable consumption model and 3) a more interactive and effective learning experience for students than other online-only OERs and MOOCs.
+
+== A scalable contribution model
+For our purposes, contribution has two distinct forms:
+
+. The administration of classes and sections and
+. The creation/modification of educational resources/assets
+
+=== Scaling the administration of classes and sections
+Recent xMOOCs have proved that only few administrative contributions can go a long way. CS50x was administered only once in the latter half of 2012 and saw over 10,000 students complete the class. Unfortunately, this model precludes more frequent, smaller classes.
+PPFCs are designed such that students interact with only the course material and their peers. A group of peers may begin on a PPFC independent of administrative availability, thus eliminating the need to scale the administration of classes.
+
+=== The creation/modification of educational resources/assets
+Resources/assets that can be contributed to in a scaled manner include (for example):
+
+ * Course goals & syllabus
+ * Review questions with an intelligent tutoring system (ITS)
+ * Slide presentations and lecture transcripts
+ * Quizzes/Exams
+
+Resources/assets that cannot be contributed to in a scaled manner include (for example):
+
+ * Video/Audio recordings
+
+PPFCs will supplement contributed resources with student engagement. In a flipped classroom, at least passing familiarity with (not necessarily comprehension of) the class topic is assumed. This model will allow a student (or students) in the class to present the lecture presentations and transcripts. Correct class sizes, well written, correctly flipped lectures and an intuitive interface will be key to making student lead discussions successful.
+
+== A scalable consumption model
+Through peer grading, discussion forms and more, existing OERs and MOOCs have made significant advances that have allowed them to effectively scale student enrollment. 
