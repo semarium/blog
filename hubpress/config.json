@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "semarium",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"semarium","repositoryName":"blog","branch":"gh-pages"},"site":{"title":"Semarium","url":"https://semarium.github.io/blog"},"socialnetwork":{},"theme":{"name":"Casper","url":"//semarium.github.io/blog/themes/Casper"}}
