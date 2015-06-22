@@ -1,4 +1,4 @@
-= Pure-peer flipped classrooms: Creating effective courses that anyone can edit
+= Pure-peer flipped classrooms: Creating courses that anyone can edit
 
 The internet has profoundly improved the availability and affordability of high quality information and (more recently) services, a pattern exemplified by Wikipedia, GitHub and Uber. ...so why have online learning platforms not driven similar improvements in education?
 
