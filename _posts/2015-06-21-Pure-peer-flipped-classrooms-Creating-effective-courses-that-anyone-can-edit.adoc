@@ -3,13 +3,17 @@
 The internet has profoundly improved the availability and affordability of high quality information and (more recently) services, a pattern exemplified by Wikipedia, GitHub and Uber. ...so why have online learning platforms not driven similar improvements in education?
 
 == Current OERs and MOOCs are missing something
-Unlike OERs and MOOCs, crowdsourced projects like Wikipedia successfully leverage the crowd for contribution and provide high quality content and/or services at scale. Pure-peer flipped classrooms/courses (PPFCs) is a new model for OERs that attempts to explicitly provide: 1) a scalable contribution model, 2) a scalable consumption model and 3) a more interactive and effective learning experience for students than other online-only OERs and MOOCs.
+Unlike OERs and MOOCs, crowdsourced projects like Wikipedia successfully leverage the crowd for contribution and provide high quality content and/or services at scale. Pure-peer flipped classrooms/courses (PPFCs) is a new model for OERs that attempts to explicitly provide:
+
+ . A scalable contribution model
+ . A scalable consumption model and
+ . An online-only learning experience comparable in quality to a blended model.  
 
 == A scalable contribution model
 For our purposes, contribution has two distinct forms:
 
-. The administration of classes and sections and
-. The creation/modification of educational resources/assets
+ . The administration of classes and sections and
+ . The creation/modification of educational resources/assets
 
 === Scaling the administration of classes and sections
 Recent xMOOCs have proved that only few administrative contributions can go a long way. CS50x was administered only once in the latter half of 2012 and saw over 10,000 students complete the class. Unfortunately, this model precludes more frequent, smaller classes.
