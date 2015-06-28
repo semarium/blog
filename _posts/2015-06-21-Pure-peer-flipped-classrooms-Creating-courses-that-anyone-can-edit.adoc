@@ -27,7 +27,7 @@ Next week, I'll discuss a product/platform (hint, working name: semarium) that c
 
 Just as I believe open contribution will be vital for semarium to work, open contribution to its creation will be vital as well. I'm not an education researcher; this is not a full time job. I'm developing my idea in public exactly so that I can collect feedback and ideas from others. Comments and https://github.com/semarium/blog[issues on this github repository] are all very welcome. Feel free to get in touch with me mailto:kyle.ibrahim@gmail.com[directly] as well.
 
-The rest of this post will focus on theoretical justifications for PPFCs. Unless you're an education reasercher, you'll probably want to skip the following and pick up next week when I introduce semarium.
+The rest of this post will focus on theoretical justifications for PPFCs. Unless you're an education researcher, you'll probably want to skip the following and pick up next week when I introduce semarium.
 
 ---
 
