@@ -451,19 +451,19 @@ article>header .count {
 }
 article .text {
     font-family: "Helvetica Neue", "Helvetica-Neue", helvetica, sans-serif;
-    font-size: 18px;
-    line-height: 1.7em;
+    font-size: 16px;
+    line-height: 1.5em;
     text-rendering: optimizeLegibility;
     max-width: 100%;
     text-align: center;
     word-wrap: break-word
 }
 article .text p, article .text pre, article .text img, article .text ol, article .text ul, article .text table, article .text dl, article .text hr, article .text blockquote {
-    margin-bottom: 30px;
+    margin-bottom: 16px;
     text-align: left
 }
 article .text>div {
-    margin-bottom: 30px
+    margin-bottom: 25px
 }
 article .text iframe, article .text object {
     margin: 0 auto 30px auto !important
@@ -545,27 +545,27 @@ article .text code {
 }
 article .text h1, article .text h2, article .text h3, article .text h4, article .text h5, article .text h6 {
     font-weight: bold;
-    margin: 40px 0 8px 0;
+    margin: 25px 0 8px 0;
     line-height: 1.2em;
     text-align: left
 }
 article .text h1 {
-    font-size: 30px
-}
-article .text h2 {
     font-size: 28px
 }
-article .text h3 {
-    font-size: 26px
-}
-article .text h4 {
+article .text h2 {
     font-size: 24px
 }
-article .text h5 {
+article .text h3 {
     font-size: 22px
 }
-article .text h6 {
+article .text h4 {
     font-size: 20px
+}
+article .text h5 {
+    font-size: 18px
+}
+article .text h6 {
+    font-size: 16px
 }
 article .text img {
     display: block;
