@@ -2,7 +2,7 @@
 
 Crowdsourced platforms like Wikipedia, GitHub and Uber have profoundly improved various information and service verticals. Why have online learning platforms not driven similar improvements in education?
 
-I'll be using this blog to explore this question and propose a propose a platform that I belive can bring crowdsoucing to education.
+This post is first in a series that will explore this question and propose a propose a platform that I belive can bring crowdsoucing to education.
 
 == Online learning is missing something
 Successful crowdsourced platforms leverage the crowd for contribution and provide high quality content and/or services at scale. More explicity, they have:
