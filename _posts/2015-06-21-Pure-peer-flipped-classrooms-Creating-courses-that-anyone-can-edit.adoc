@@ -4,22 +4,23 @@ Crowdsourced platforms like Wikipedia, GitHub and Uber have profoundly improved 
 
 I'll be using this blog to explore this question and propose a propose a platform that I belive can bring crowdsoucing to education.
 
-== Current OERs and MOOCs are missing something
-Crowdsourced projects like Wikipedia successfully leverage the crowd for contribution and provide high quality content and/or services at scale. These projects necessarily excel at three things:
+== Online learning is missing something
+Successful crowdsourced platforms leverage the crowd for contribution and provide high quality content and/or services at scale. More explicity, they have:
 
  . A scalable contribution model
  . A scalable consumption model and
  . Content/service quality comparable to traditional non-crowdsourced options
  
- 
-Existing online learning platform fail to provide one or more of thsese. MOOCs are written in a top-down manner that precludes open contribution while OERs often lack enough course structure to be widely accessable to students [1]. Pure-peer flipped classrooms/courses (PPFCs) are a way to ofer structed OERs that attempt to realize the same soft of success other crowdsourced platforms have had.
+Existing online learning platforms fail to provide one or more of these. Massive open online courses (MOOCs - like edx, Coursera, etc) are written in a top-down manner that precludes open contribution. Open educational resources (OERs - like MIT's OpenCourseWare) often lack enough course structure to be widely accessable to students [1].
 
-I'll start with a high level overview of how a PPFCs works, and explain why it has the nessesary componets of a succesful crowdsourced platform.
+I propose pure-peer flipped classrooms (PPFCs) as an answer to what online learning is currently missing.
 
 == PPFC overview
-A 'flipped' classroom moves lectures and other content-only material outside of the classroom and uses class time to explore content in greater depth or work on more traditional homework problems. This model removes the teacher as the center focus [2]. A 'pure peer' flipped classroom is a online-only class that entirely removes the instructor from the in-class experience by letting a group of students work through a class session together without real-time external guidence. Students review lectrues and other course material before attending an online 'class', where they are presented with a brief lecture and various home-work style questions that they can work on as a group.
+A 'flipped' classroom moves lectures and other content-only material outside of the classroom and uses class time to explore content in greater depth or work on more traditional homework problems. This model removes the teacher as the central focus [2].
 
-I belive that a solid UI and excellent course material can and will enable such such 'pure peer' clases to run well. 
+A 'pure peer' flipped classroom is an online class that entirely removes the instructor from the in-class experience. Students watch lectrues and read course material before attending an online class together. In class, an automated system presents a brief material review followed by questions and discussion topics that the students work through as a group. Realtime peer feedback combined with an intelligent tutoring system removes the need for instructor mediation. By letting a group of students work through a class session together, PPFCs recover the interactive experience that current online courses lack.
+
+Running 'pure peer' clases like this will require innovative technology and high-quality content. So why bother? Because PPFCs have all three nessesary components of a succesful crowdsourced platform. PPFCs enable crowdsourced education and courses that anyone can edit.
 
 == A scalable contribution model
 For our purposes, contribution has two distinct forms:
@@ -58,3 +59,4 @@ Online offerings are unlikely to ever reach the quality of an on-campus, top-tei
 [1] Creating Educational Resources at Scale http://mitros.org/p/papers/pmitros-icalt14.pdf
 [2] Flipped classroom https://en.wikipedia.org/wiki/Flipped_classroom
 [3] This was CS50x https://blog.cs50.net/
+[4] Active learning https://en.wikipedia.org/wiki/Active_learning
