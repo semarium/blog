@@ -13,14 +13,21 @@ Successful crowdsourced platforms leverage the crowd for contribution and provid
  
 Existing online learning platforms fail to provide one or more of these. Massive open online courses (MOOCs - like edx, Coursera, etc) are written in a top-down manner that precludes open contribution. Open educational resources (OERs - like MIT's OpenCourseWare) often lack enough course structure to be widely accessable to students [1].
 
-I propose pure-peer flipped classrooms (PPFCs) as an answer to what online learning is currently missing.
+I propose pure-peer flipped classrooms (PPFCs) as a model that addresses the shortcommings of existing OERs and MOOCs. 
 
 == PPFC overview
-A 'flipped' classroom moves lectures and other content-only material outside of the classroom and uses class time to explore content in greater depth or work on more traditional homework problems. This model removes the teacher as the central focus [2].
+A https://en.wikipedia.org/wiki/Flipped_classroom['flipped' classroom] moves lectures and other content-only material outside of the classroom and uses class time to explore content in greater depth or work on more traditional homework problems. This model removes the teacher as the central focus.
 
 A 'pure peer' flipped classroom is an online class that entirely removes the instructor from the in-class experience. Students watch lectrues and read course material before attending an online class together. In class, an automated system presents a brief material review followed by questions and discussion topics that the students work through as a group. Realtime peer feedback combined with an intelligent tutoring system removes the need for instructor mediation. By letting a group of students work through a class session together, PPFCs recover the interactive experience that current online courses lack.
 
-Running 'pure peer' clases like this will require innovative technology and high-quality content. So why bother? Because PPFCs have all three nessesary components of a succesful crowdsourced platform. PPFCs enable crowdsourced education and courses that anyone can edit.
+Running 'pure peer' clases like this will require innovative technology and high-quality content. So why bother? Because PPFCs have all three nessesary components of a succesful crowdsourced platform: a scalable contribution model, a scalable consumption model and a learning experience comparable to traditional education. PPFCs enable crowdsourced education and courses that anyone can edit.
+
+== But really, how will this work?
+Next week, I'll discuss a product/platform (hint, working name: semarium) that could practiclly implment PPFCs. *My ideas are very much exporitory* and will take a good deal of refinement before they are even close to reasonable. However, I do think I'm on the right track: we need an education platform that is both scalable and interactive. I belive a PPFC-like solution is ultimatly the right solution; I vehemently belive a sucessful crowdsourced learning platform will have a huge impact on the world.
+
+Just as I believe open contribution will be vital for semarium to work, open contribution to its creation will be vital as well. I'm not an education reasearcher; this is not a full time job. I'm developing my idea in public exactly so that I can collect feedback and ideas from others. Comments, issues on this github repository and emails are all very welcome.
+
+The rest of this post will focus on theoretical justifications for PPFCs. Unless you're an education reasercher, you'll probably want to skip the following and pick up next week when I introduce semarium.
 
 == A scalable contribution model
 For our purposes, contribution has two distinct forms:
