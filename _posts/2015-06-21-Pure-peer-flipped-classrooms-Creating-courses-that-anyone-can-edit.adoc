@@ -25,22 +25,27 @@ Running 'pure peer' clases like this will require innovative technology and high
 == But really, how will this work?
 Next week, I'll discuss a product/platform (hint, working name: semarium) that could practiclly implment PPFCs. *My ideas are very much exporitory* and will take a good deal of refinement before they are even close to reasonable. However, I do think I'm on the right track: we need an education platform that is both scalable and interactive. I belive a PPFC-like solution is ultimatly the right solution; I vehemently belive a sucessful crowdsourced learning platform will have a huge impact on the world.
 
-Just as I believe open contribution will be vital for semarium to work, open contribution to its creation will be vital as well. I'm not an education reasearcher; this is not a full time job. I'm developing my idea in public exactly so that I can collect feedback and ideas from others. Comments, issues on this github repository and emails are all very welcome.
+Just as I believe open contribution will be vital for semarium to work, open contribution to its creation will be vital as well. I'm not an education reasearcher; this is not a full time job. I'm developing my idea in public exactly so that I can collect feedback and ideas from others. Comments and https://github.com/semarium/blog[issues on this github repository] are all very welcome. Feel free to get in touch with me mailto:kyle.ibrahim@gmail.com[directly] as well.
 
 The rest of this post will focus on theoretical justifications for PPFCs. Unless you're an education reasercher, you'll probably want to skip the following and pick up next week when I introduce semarium.
 
-== A scalable contribution model
+---
+
+== Part 2: Crowdsourcing and PPFCs
+
+
+=== A scalable contribution model
 For our purposes, contribution has two distinct forms:
 
  . The administration of classes and sections and
  . The creation/modification of educational resources/assets
 
-=== Scaling the administration of classes and sections
+==== Scaling the administration of classes and sections
 Recent xMOOCs have proved that only few administrative contributions can go a long way. CS50x was administered only once in the latter half of 2012 and saw over 10,000 students complete the class [3]. Peer grading and discussion forms have helped removed adminitration as a bottleneck for essay grading and office-hours style questions.
 
 Unfortunately, this model precludes more frequent, smaller classes. PPFCs are designed such that students interact with only the course material and their peers. A group of peers may begin on a PPFC independent of administrative availability, thus eliminating the need to scale the administration of classes.
 
-=== The creation/modification of educational resources/assets
+==== The creation/modification of educational resources/assets
 Resources/assets that can be contributed to in a scaled manner include (for example):
 
  * Course goals & syllabus
@@ -54,14 +59,14 @@ Resources/assets that cannot be contributed to in a scaled manner include (for e
 
 PPFCs will supplement contributed resources with student engagement. In a flipped classroom, at least passing familiarity with (not necessarily comprehension of) the class topic is assumed. This model will allow a student (or students) in the class to present the lecture presentations and transcripts. Correct class sizes, well written, correctly flipped lectures and an intuitive interface will be key to making student lead discussions successful.
 
-== A scalable consumption model
+=== A scalable consumption model
 Course discovery is a key component to scaling the student base of a learning platform. Unlike OERs, PPFCs align with traditional course numbers and a centralized course catalog. xMOOCs have shown such course catalogs to be highly effetive.
 
-== Quality of experience
+=== Quality of experience
 Online offerings are unlikely to ever reach the quality of an on-campus, top-teir university program. However, an interactive, synchronous class would provide a more enriching experience than current online programs can offer. While there are advatages to self-paced courses, following a schedule improves self-certification rates in online classes.
 
 
-=== References
+==== References
 
 [1] Creating Educational Resources at Scale http://mitros.org/p/papers/pmitros-icalt14.pdf
 [2] Flipped classroom https://en.wikipedia.org/wiki/Flipped_classroom
