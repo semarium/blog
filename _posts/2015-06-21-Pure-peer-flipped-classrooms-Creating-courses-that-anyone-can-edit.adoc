@@ -1,5 +1,4 @@
-= Pure-peer flipped classrooms
-== Creating courses that anyone can edit
+= Pure-peer flipped classrooms: Creating courses that anyone can edit
 
 Crowdsourced platforms like Wikipedia, GitHub and Uber have profoundly improved various information and service verticals. Why have online learning platforms not driven similar improvements in education?
 
