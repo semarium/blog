@@ -3,19 +3,21 @@
 {{#post}}
 
     {{#if image}}
-        <div id="feature_image">
-            <div class="inner" style="background-image: url('{{image}}')">
-                <img src="{{image}}">
-            </div>
-        </div>
-    {{/if}}
-
-    <article role="main" class="{{#if image}}image{{/if}}">
-        <header>
+        <header style="background-image: url('{{image}}')">
             <a href="{{@blog.url}}" id="home_link">«</a>
             <div class="meta"><time datetime="{{date format='YYYY-MM-DD'}}"><a href="{{url}}">{{date format="MMMM DD, YYYY"}}</a></time> <span class="count" id="js-reading-time"></span></div>
             <h1>{{title}}</h1>
         </header>
+    {{/if}}
+
+    <article role="main" class="{{#if image}}image{{/if}}">
+        {{#if !image}}
+            <header>
+                <a href="{{@blog.url}}" id="home_link">«</a>
+                <div class="meta"><time datetime="{{date format='YYYY-MM-DD'}}"><a href="{{url}}">{{date format="MMMM DD, YYYY"}}</a></time> <span class="count" id="js-reading-time"></span></div>
+                <h1>{{title}}</h1>
+            </header>
+        {{/if}}
 
         <div class="text" id="js-post-content">
             {{content}}
