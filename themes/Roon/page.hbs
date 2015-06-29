@@ -3,19 +3,20 @@
 {{#post}}
 
     {{#if image}}
-        <div id="feature_image">
-            <div class="inner" style="background-image: url('{{image}}')">
-                <img src="{{image}}">
-            </div>
-        </div>
+        <header style="background-image: url({{image}})"{{/if}}>
+            <a href="{{@blog.url}}" id="home_link">«</a>
+            <h1>{{title}}</h1>
+        </header>
     {{/if}}
 
     <article role="main" class="{{#if image}}image{{/if}}">
 
-        <header>
-            <a href="{{@blog.url}}" id="home_link">«</a>
-            <h1>{{title}}</h1>
-        </header>
+        {{#if !image}}
+            <header>
+                <a href="{{@blog.url}}" id="home_link">«</a>
+                <h1>{{title}}</h1>
+            </header>
+        {{/if}}
 
         <div class="text">
             {{content}}
