@@ -70,6 +70,9 @@ Online offerings are unlikely to ever reach the quality of an on-campus, top-tie
 ==== References
 
 [1] Creating Educational Resources at Scale http://mitros.org/p/papers/pmitros-icalt14.pdf
+
 [2] Flipped classroom https://en.wikipedia.org/wiki/Flipped_classroom
+
 [3] This was CS50x https://blog.cs50.net/
+
 [4] Active learning https://en.wikipedia.org/wiki/Active_learning
