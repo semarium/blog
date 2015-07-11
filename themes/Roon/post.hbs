@@ -11,7 +11,8 @@
     {{/if}}
 
     <article role="main" class="{{#if image}}image{{/if}}">
-        {{#if !image}}
+        {{#if image}}
+        {{else}}
             <header>
                 <a href="{{@blog.url}}" id="home_link">«</a>
                 <div class="meta"><time datetime="{{date format='YYYY-MM-DD'}}"><a href="{{url}}">{{date format="MMMM DD, YYYY"}}</a></time> <span class="count" id="js-reading-time"></span></div>
