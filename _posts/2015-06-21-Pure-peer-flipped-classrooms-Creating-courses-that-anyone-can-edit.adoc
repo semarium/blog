@@ -21,14 +21,14 @@ Existing online learning platforms fail to provide one or more of these. Massive
 I propose pure-peer flipped classrooms (PPFCs) as a model that addresses the shortcomings of existing OERs and MOOCs. 
 
 == PPFC overview
-A https://en.wikipedia.org/wiki/Flipped_classroom['flipped' classroom] moves lectures and other content-only material outside of the classroom and uses class time to explore content in greater depth or work on more traditional homework problems. This model removes the teacher as the central focus.
+A https://en.wikipedia.org/wiki/Flipped_classroom['flipped' classroom] moves lectures and other content-only material outside of the classroom and uses class time to explore content in greater depth or work on more traditional homework problems. This model removes the teacher as the central focus [2].
 
 A 'pure peer' flipped classroom is an online class that entirely removes the instructor from the in-class experience. Students watch lectures and read course material before attending an online class together. In class, an automated system presents a brief material review followed by questions and discussion topics that the students work through as a group. Realtime peer feedback combined with an intelligent tutoring system removes the need for instructor mediation. By letting a group of students work through a class session together, PPFCs recover the interactive experience that current online courses lack.
 
 Running 'pure peer' classes like this will require innovative technology and high-quality content. So why bother? Because PPFCs have all three necessary components of a successful crowdsourced platform: a scalable contribution model, a scalable consumption model and a learning experience comparable to traditional education. PPFCs enable crowdsourced education and courses that anyone can edit.
 
 == But really, how will this work?
-Next week, I'll discuss a product/platform (hint, working name: semarium) that could practically implement PPFCs. *My ideas are very much exploratory* and will take a good deal of refinement before they are even close to reasonable. However, I do think I'm on the right track: we need an education platform that is both scalable and interactive. I believe a PPFC-like solution is ultimately the right solution; I vehemently believe a successful crowdsourced learning platform will have a huge impact on the world.
+Next week, I'll discuss a product/platform (hint, working name: Semarium) that could practically implement PPFCs. *My ideas are very much exploratory* and will take a good deal of refinement before they are even close to reasonable. However, I do think I'm on the right track: we need an education platform that is both scalable and interactive. I believe a PPFC-like solution is ultimately the right solution; I vehemently believe a successful crowdsourced learning platform will have a huge impact on the world.
 
 Just as I believe open contribution will be vital for semarium to work, open contribution to its creation will be vital as well. I'm not an education researcher; this is not a full time job. I'm developing my idea in public exactly so that I can collect feedback and ideas from others. Comments and https://github.com/semarium/blog[issues on this github repository] are all very welcome. Feel free to get in touch with me mailto:kyle.ibrahim@gmail.com[directly] as well.
 
@@ -38,7 +38,3 @@ Just as I believe open contribution will be vital for semarium to work, open con
 [1] Creating Educational Resources at Scale http://mitros.org/p/papers/pmitros-icalt14.pdf
 
 [2] Flipped classroom https://en.wikipedia.org/wiki/Flipped_classroom
-
-[3] This was CS50x https://blog.cs50.net/
-
-[4] Active learning https://en.wikipedia.org/wiki/Active_learning
