@@ -8,7 +8,7 @@ This post is first in a series that will explore this question and propose a pro
  * Week 0: Pure-peer flipped classrooms: Creating courses that anyone can edit
  * Week 1: Semarium: An introdution
  * Week 2: Semarium wireframes
- * Week 3: Building Semarium
+ * Week 3: 
 
 == Online learning is missing something
 Successful crowdsourced platforms leverage the crowd for contribution and provide high quality content and/or services at scale. More explicitly, they have:
