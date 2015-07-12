@@ -5,10 +5,9 @@ Crowdsourced platforms like Wikipedia, GitHub and Uber have profoundly improved 
 This post is first in a series that will explore this question and propose a propose a platform that I believe can bring crowdsourcing to education:
 
  * Week 0: https://#[Pure-peer flipped classrooms: Creating courses that anyone can edit]
- * Week 1: Semarium: An introduction
- * Week 2: UX and wireframes
- * Week 3: Building Semarium
-
+ * Week 1: Semarium: An introduction, UX and wireframes
+ * Week 2: Building Semarium
+ 
 == Online learning is missing something
 Successful crowdsourced platforms leverage the crowd for contribution and provide high quality content and/or services at scale. More explicitly, they have:
 
@@ -18,7 +17,7 @@ Successful crowdsourced platforms leverage the crowd for contribution and provid
  
 Existing online learning platforms fail to provide one or more of these. Massive open online courses (MOOCs - like edx, Coursera, etc) are written in a top-down manner that precludes open contribution. Open educational resources (OERs - like MIT's OpenCourseWare) often lack enough course structure to be widely accessible to students [1].
 
-I propose pure-peer flipped classrooms (PPFCs) as a model that addresses the shortcomings of existing OERs and MOOCs. 
+I propose pure-peer flipped classrooms (PPFCs) as a model that addresses the shortcomings of existing OERs and MOOCs.
 
 == PPFC overview
 A https://en.wikipedia.org/wiki/Flipped_classroom['flipped' classroom] moves lectures and other content-only material outside of the classroom and uses class time to explore content in greater depth or work on more traditional homework problems. This model removes the teacher as the central focus [2].
