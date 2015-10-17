@@ -2,7 +2,7 @@
 
 Crowdsourced platforms like Wikipedia, GitHub and Uber have profoundly improved various information and service verticals. Why have online learning platforms not driven similar improvements in education?
 
-This post is first in a series that will explore this question and propose a propose a platform that I believe can bring crowdsourcing to education:
+This post is first in a series that will explore this question and propose a platform that I believe can bring crowdsourcing to education:
 
  * Week 0: https://#[Pure-peer flipped classrooms: Creating courses that anyone can edit]
  * Week 1: Semarium: An introduction, UX and wireframes
